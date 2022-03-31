@@ -183,9 +183,17 @@ a.social:hover {
     max-width: 1200px;
     padding: 0 30px;
   }
+ #experience{
+ text-align: left;
+ font-size: 20px;
+ border-radius: 50px;
+ margin-top: 75px;
+ padding: 75px;
+ text-decoration: solid;
+ color: rgb(22, 21, 21);
+ }
 
-
-  main {
+  main{
     padding-top: 20px;
   }
 
