@@ -186,17 +186,20 @@ a.social:hover {
  #experience{
  text-align: left;
  font-size: 20px;
- border-radius: 50px;
+ border-radius: 30px;
  margin-top: 75px;
  padding: 75px;
  text-decoration: solid;
  color: rgb(236, 232, 232);
+ 
+
  }
 
  .tank{
    border-radius: 45px;
    border-style: hidden;
    margin-right: 100%;
+   border: 3px solid black;
 
  }
 
